@@ -29,7 +29,7 @@ The platform digitalizes the entire research defense lifecycle, from scheduling 
    
 # Contributors
 
-Lea Roncesvalles   Developer / Project Manager
-Janna Mae Asa      Frontend Developer / UI-UX Designer
-Andrey Quintela    Backend Developer / Database Engineer
+Lea Roncesvalles   Developer / Project Manager |
+Janna Mae Asa      Frontend Developer / UI-UX Designer |
+Andrey Quintela    Backend Developer / Database Engineer |
 Dalia Mae Miralles Developer / Documentation Specialist
