@@ -12,7 +12,7 @@ The platform digitalizes the entire research defense lifecycle, from scheduling 
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/your-username/e-defense.git
+   git clone https://github.com/DkFerrer/E-Defense-System.git
    cd e-defense
 ```
 2. Install dependencies:
