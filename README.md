@@ -28,7 +28,7 @@ The platform digitalizes the entire research defense lifecycle, from scheduling 
      npm run dev            
    
 # Contributors
-Name                     Role
+
 Lea Roncesvalles   Developer / Project Manager
 Janna Mae Asa      Frontend Developer / UI-UX Designer
 Andrey Quintela    Backend Developer / Database Engineer
