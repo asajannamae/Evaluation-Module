@@ -11,21 +11,21 @@ The platform digitalizes the entire research defense lifecycle, from scheduling 
 
 # Installation Guide
 1. Clone the repository:
-  bash
-    git clone https://github.com/your-username/e-defense.git
-    cd e-defense
+  ```bash
+       git clone https://github.com/your-username/e-defense.git
+       cd e-defense
 
 2. Install dependencies:
-  bash
-     composer install       
-     npm install            
-     pip install -r requirements.txt   
+  ```bash
+       composer install       
+       npm install            
+       pip install -r requirements.txt   
 
 3. Set up environment variables — copy .env.example to .env and fill in values.
 4. Run the application:
-  bash
-     php artisan serve      
-     npm run dev            
+  ```bash
+       php artisan serve      
+       npm run dev            
    
 # Contributors
 
