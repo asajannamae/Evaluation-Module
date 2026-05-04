@@ -17,16 +17,17 @@ The platform digitalizes the entire research defense lifecycle, from scheduling 
 ```
 2. Install dependencies:
 ```bash
-composer install       
-npm install            
-pip install -r requirements.txt   
+   composer install       
+   npm install            
+   pip install -r requirements.txt   
 ```
 3. Set up environment variables — copy .env.example to .env and fill in values.
 4. Run the application:
 ```bash
-php artisan serve      
-npm run dev            
-```  
+   php artisan serve      
+   npm run dev            
+```
+
 ## Contributors
 | Name | Role |
 |------|------|
