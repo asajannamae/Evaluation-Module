@@ -5,9 +5,9 @@ E-Defense is an integrated research defense management system developed for the 
 The platform digitalizes the entire research defense lifecycle, from scheduling and panel assignments to post-evaluation consolidation. Enabling efficient management of thesis and capstone defense records across all academic units.
 
 ## Tech Stack
-  Language: PHP, JavaScript, Python
-  Framework: Laravel (Backend API), React (Frontend)
-  Database: MySQL
+- **Language:** PHP / JavaScript / Python
+- **Framework:** Laravel (Backend API) / React (Frontend)
+- **Database:** MySQL
 
 ## Installation Guide
 
@@ -29,8 +29,9 @@ The platform digitalizes the entire research defense lifecycle, from scheduling 
        npm run dev            
 ```  
 ## Contributors
-
-Lea Roncesvalles   Developer / Project Manager |
-Janna Mae Asa      Frontend Developer / UI-UX Designer |
-Andrey Quintela    Backend Developer / Database Engineer |
-Dalia Mae Miralles Developer / Documentation Specialist
+| Name | Role |
+|------|------|
+|Lea Roncesvalles  | Developer / Project Manager |
+|Janna Mae Asa     | Frontend Developer / UI-UX Designer |
+|Andrey Quintela   | Backend Developer / Database Engineer |
+|Dalia Mae Miralles| Developer / Documentation Specialist |
