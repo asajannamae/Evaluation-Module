@@ -1,0 +1,17 @@
+{
+  "name": "evaluation",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Monorepo root — the Expo app lives in ./frontend",
+  "scripts": {
+    "start": "npm --prefix ./frontend run start",
+    "web": "npm --prefix ./frontend run web",
+    "android": "npm --prefix ./frontend run android",
+    "ios": "npm --prefix ./frontend run ios",
+    "expo": "npm --prefix ./frontend exec -- expo",
+    "backend:install": "composer install --no-interaction -d backend",
+    "backend:migrate": "php backend/artisan migrate",
+    "backend:seed": "php backend/artisan db:seed",
+    "backend:serve": "php backend/artisan serve"
+  }
+}

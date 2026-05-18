@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "E-Defense Evaluation",
+    "slug": "evaluation-frontend",
+    "version": "1.0.0",
+    "orientation": "default",
+    "scheme": "edefense",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
